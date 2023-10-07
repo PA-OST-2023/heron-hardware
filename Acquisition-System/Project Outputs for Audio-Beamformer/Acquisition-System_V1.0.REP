@@ -2,54 +2,6 @@
 FileName = Acquisition-System_V1.0.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 1
-      File : Acquisition-System_V1.0.GM1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Acquisition-System_V1.0.GBO
-
-    Adding Layer      : Bottom Overlay
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D10
-    D12
-    D18
-    D120
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Acquisition-System_V1.0.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D116
-    D117
-*************************************************************
-
-*************************************************************
 Generating : Bottom Solder
       File : Acquisition-System_V1.0.GBS
 
@@ -78,8 +30,9 @@ Used DCodes :
     D96
     D97
     D98
-    D118
-    D119
+    D99
+    D120
+    D121
 *************************************************************
 
 *************************************************************
@@ -141,6 +94,7 @@ Used DCodes :
     D96
     D97
     D98
+    D99
 *************************************************************
 
 *************************************************************
@@ -218,40 +172,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : Acquisition-System_V1.0.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D18
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-*************************************************************
-
-*************************************************************
 Generating : Mid-Layer 2
       File : Acquisition-System_V1.0.G2
 
@@ -265,14 +185,15 @@ Generating : Mid-Layer 2
 Used DCodes :
     D10
     D103
-    D106
-    D107
+    D104
+    D105
     D108
-    D109
     D110
+    D111
     D112
     D114
-    D115
+    D116
+    D117
 *************************************************************
 
 *************************************************************
@@ -288,11 +209,11 @@ Generating : Mid-Layer 1
 
 Used DCodes :
     D10
-    D100
     D101
-    D102
+    D104
     D106
-    D114
+    D107
+    D116
 *************************************************************
 
 *************************************************************
@@ -339,7 +260,6 @@ Used DCodes :
     D52
     D53
     D54
-    D99
     D100
     D101
     D102
@@ -356,5 +276,90 @@ Used DCodes :
     D113
     D114
     D115
+    D116
+    D117
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Acquisition-System_V1.0.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Acquisition-System_V1.0.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D12
+    D18
+    D122
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Acquisition-System_V1.0.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D118
+    D119
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Acquisition-System_V1.0.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D18
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
 *************************************************************
 
