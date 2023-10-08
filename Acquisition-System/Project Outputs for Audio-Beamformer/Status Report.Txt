@@ -1,14 +1,23 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Acquisition-System.PrjPcb]
-   Generated File[Acquisition-System_V1.0-RoundHoles.TXT]
-   Generated File[Acquisition-System_V1.0-SlotHoles.TXT]
-   Generated File[Acquisition-System_V1.0-RectHoles.TXT]
-   Generated File[Acquisition-System_V1.0.LDP]
-   Generated File[Acquisition-System_V1.0.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Acquisition-System.PrjPcb]
+   Generated File[Acquisition-System_V1.0.GTO]
+   Generated File[Acquisition-System_V1.0.GTP]
+   Generated File[Acquisition-System_V1.0.GTS]
+   Generated File[Acquisition-System_V1.0.GTL]
+   Generated File[Acquisition-System_V1.0.G1]
+   Generated File[Acquisition-System_V1.0.G2]
+   Generated File[Acquisition-System_V1.0.GBL]
+   Generated File[Acquisition-System_V1.0.GBS]
+   Generated File[Acquisition-System_V1.0.GBP]
+   Generated File[Acquisition-System_V1.0.GBO]
+   Generated File[Acquisition-System_V1.0.GM1]
+   Generated File[Acquisition-System_V1.0.RUL]
+   Generated File[Acquisition-System_V1.0.EXTREP]
+   Generated File[Acquisition-System_V1.0.REP]
 
 
-Files Generated   : 5
+Files Generated   : 14
 Documents Printed : 0
 
-Finished Output Generation At 21:47:13 On 07.10.2023
+Finished Output Generation At 16:51:27 On 08.10.2023
