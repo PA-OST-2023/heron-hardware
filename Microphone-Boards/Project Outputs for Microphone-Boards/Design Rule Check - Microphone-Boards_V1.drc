@@ -1,0 +1,126 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Admin\GoogleDrive\MSE\PA-OST-2023\heron-hardware\Microphone-Boards\Microphone-Boards_V1.0.PcbDoc
+Date     : 08.10.2023
+Time     : 18:40:42
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (InPoly),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (NOT (InNet('3V3') OR InNet('GND'))) )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.152mm) (Max=500mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=25.4mm) (All)
+Rule Violations :0
+
+Processing Rule : Room MP34DT05TR1 (Bounding Region = (100.08mm, 131.08mm, 114.08mm, 153.08mm) (InComponentClass('MP34DT05TR1'))
+Rule Violations :0
+
+Processing Rule : Room GMA4030H118 (Bounding Region = (198.08mm, 87.08mm, 212.08mm, 109.08mm) (InComponentClass('GMA4030H118'))
+Rule Violations :0
+
+Processing Rule : Room MP34DT05TR3 (Bounding Region = (128.08mm, 131.08mm, 142.08mm, 153.08mm) (InComponentClass('MP34DT05TR3'))
+Rule Violations :0
+
+Processing Rule : Room MP34DT05TR2 (Bounding Region = (114.08mm, 131.08mm, 128.08mm, 153.08mm) (InComponentClass('MP34DT05TR2'))
+Rule Violations :0
+
+Processing Rule : Room GMA4030H116 (Bounding Region = (170.08mm, 87.08mm, 184.08mm, 109.08mm) (InComponentClass('GMA4030H116'))
+Rule Violations :0
+
+Processing Rule : Room GMA4030H115 (Bounding Region = (156.08mm, 87.08mm, 170.08mm, 109.08mm) (InComponentClass('GMA4030H115'))
+Rule Violations :0
+
+Processing Rule : Room GMA4030H117 (Bounding Region = (184.08mm, 87.08mm, 198.08mm, 109.08mm) (InComponentClass('GMA4030H117'))
+Rule Violations :0
+
+Processing Rule : Room SD18OB2618 (Bounding Region = (198.08mm, 65.08mm, 212.08mm, 87.08mm) (InComponentClass('SD18OB2618'))
+Rule Violations :0
+
+Processing Rule : Room SD18OB2611 (Bounding Region = (100.08mm, 65.08mm, 114.08mm, 87.08mm) (InComponentClass('SD18OB2611'))
+Rule Violations :0
+
+Processing Rule : Room MP34DT05TR8 (Bounding Region = (198.08mm, 131.08mm, 212.08mm, 153.08mm) (InComponentClass('MP34DT05TR8'))
+Rule Violations :0
+
+Processing Rule : Room SD18OB2613 (Bounding Region = (128.08mm, 65.08mm, 142.08mm, 87.08mm) (InComponentClass('SD18OB2613'))
+Rule Violations :0
+
+Processing Rule : Room SD18OB2612 (Bounding Region = (114.08mm, 65.08mm, 128.08mm, 87.08mm) (InComponentClass('SD18OB2612'))
+Rule Violations :0
+
+Processing Rule : Room MP34DT05TR5 (Bounding Region = (156.08mm, 131.08mm, 170.08mm, 153.08mm) (InComponentClass('MP34DT05TR5'))
+Rule Violations :0
+
+Processing Rule : Room MP34DT05TR4 (Bounding Region = (142.08mm, 131.08mm, 156.08mm, 153.08mm) (InComponentClass('MP34DT05TR4'))
+Rule Violations :0
+
+Processing Rule : Room MP34DT05TR7 (Bounding Region = (184.08mm, 131.08mm, 198.08mm, 153.08mm) (InComponentClass('MP34DT05TR7'))
+Rule Violations :0
+
+Processing Rule : Room MP34DT05TR6 (Bounding Region = (170.08mm, 131.08mm, 184.08mm, 153.08mm) (InComponentClass('MP34DT05TR6'))
+Rule Violations :0
+
+Processing Rule : Room GMA3526H103 (Bounding Region = (128.08mm, 109.08mm, 142.08mm, 131.08mm) (InComponentClass('GMA3526H103'))
+Rule Violations :0
+
+Processing Rule : Room GMA3526H102 (Bounding Region = (114.08mm, 109.08mm, 128.08mm, 131.08mm) (InComponentClass('GMA3526H102'))
+Rule Violations :0
+
+Processing Rule : Room GMA3526H105 (Bounding Region = (156.08mm, 109.08mm, 170.08mm, 131.08mm) (InComponentClass('GMA3526H105'))
+Rule Violations :0
+
+Processing Rule : Room GMA3526H104 (Bounding Region = (142.08mm, 109.08mm, 156.08mm, 131.08mm) (InComponentClass('GMA3526H104'))
+Rule Violations :0
+
+Processing Rule : Room SD18OB2617 (Bounding Region = (184.08mm, 65.08mm, 198.08mm, 87.08mm) (InComponentClass('SD18OB2617'))
+Rule Violations :0
+
+Processing Rule : Room SD18OB2616 (Bounding Region = (170.08mm, 65.08mm, 184.08mm, 87.08mm) (InComponentClass('SD18OB2616'))
+Rule Violations :0
+
+Processing Rule : Room GMA3526H101 (Bounding Region = (100.08mm, 109.08mm, 114.08mm, 131.08mm) (InComponentClass('GMA3526H101'))
+Rule Violations :0
+
+Processing Rule : Room SD18OB2615 (Bounding Region = (156.08mm, 65.08mm, 170.08mm, 87.08mm) (InComponentClass('SD18OB2615'))
+Rule Violations :0
+
+Processing Rule : Room GMA4030H113 (Bounding Region = (128.08mm, 87.08mm, 142.08mm, 109.08mm) (InComponentClass('GMA4030H113'))
+Rule Violations :0
+
+Processing Rule : Room GMA4030H112 (Bounding Region = (114.08mm, 87.08mm, 128.08mm, 109.08mm) (InComponentClass('GMA4030H112'))
+Rule Violations :0
+
+Processing Rule : Room SD18OB2614 (Bounding Region = (142.08mm, 65.08mm, 156.08mm, 87.08mm) (InComponentClass('SD18OB2614'))
+Rule Violations :0
+
+Processing Rule : Room GMA4030H114 (Bounding Region = (142.08mm, 87.08mm, 156.08mm, 109.08mm) (InComponentClass('GMA4030H114'))
+Rule Violations :0
+
+Processing Rule : Room GMA3526H107 (Bounding Region = (184.08mm, 109.08mm, 198.08mm, 131.08mm) (InComponentClass('GMA3526H107'))
+Rule Violations :0
+
+Processing Rule : Room GMA3526H106 (Bounding Region = (170.08mm, 109.08mm, 184.08mm, 131.08mm) (InComponentClass('GMA3526H106'))
+Rule Violations :0
+
+Processing Rule : Room GMA4030H111 (Bounding Region = (100.08mm, 87.08mm, 114.08mm, 109.08mm) (InComponentClass('GMA4030H111'))
+Rule Violations :0
+
+Processing Rule : Room GMA3526H108 (Bounding Region = (198.08mm, 109.08mm, 212.08mm, 131.08mm) (InComponentClass('GMA3526H108'))
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:02

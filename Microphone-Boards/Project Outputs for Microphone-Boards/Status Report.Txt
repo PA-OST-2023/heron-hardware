@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Microphone-Boards.PrjPcb]
+   Generated File[Pick Place for Microphone-Boards_V1.0.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:53:24 On 08.10.2023
