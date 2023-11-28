@@ -1,4 +1,7 @@
 Record=TopLevelDocument|FileName=Mainboard_V1.0.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=Mainboard_V1.0.SchDoc|FileName=Mainboard_V1.0_Ethernet.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Mainboard_V1.0.SchDoc|FileName=Mainboard_V1.0_GPS.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Mainboard_V1.0.SchDoc|FileName=Mainboard_V1.0_HMI.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=Mainboard_V1.0.SchDoc|FileName=Mainboard_V1.0_Input.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=Mainboard_V1.0.SchDoc|FileName=Mainboard_V1.0_MCU.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Mainboard_V1.0.SchDoc|FileName=Mainboard_V1.0_Sensors.SchDoc|SheetNumber=2
