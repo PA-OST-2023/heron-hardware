@@ -116,6 +116,40 @@ GenerateClassCluster=0
 DocumentUniqueId=HSPJEJSX
 
 [Document5]
+DocumentPath=Mainboard_V1.0_Sensors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DUANUCFG
+
+[Document6]
+DocumentPath=Mainboard_V1.0_HMI.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PJACAVZR
+
+[Document7]
 DocumentPath=Mainboard_V1.0_GPS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -132,7 +166,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WUGYNSES
 
-[Document6]
+[Document8]
 DocumentPath=Mainboard_V1.0_Input.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -149,7 +183,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WIHMEYBJ
 
-[Document7]
+[Document9]
 DocumentPath=Mainboard_V1.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -166,7 +200,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UQKNQQGT
 
-[Document8]
+[Document10]
 DocumentPath=Mainboard_V1.0_Input.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -183,7 +217,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document11]
 DocumentPath=Mainboard_V1.0_MCU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
