@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=D:\GoogleDrive\MSE\PA-OST-2023\heron-hardware\Mainboard\.PDF
+OutputFilePath2=C:\Users\Admin\GoogleDrive\MSE\PA-OST-2023\heron-hardware\Mainboard\.PDF
 ReleaseManaged2=0
-OutputBasePath2=D:\GoogleDrive\MSE\PA-OST-2023\heron-hardware\Mainboard\
+OutputBasePath2=C:\Users\Admin\GoogleDrive\MSE\PA-OST-2023\heron-hardware\Mainboard\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=D:\GoogleDrive\MSE\PA-OST-2023\heron-hardware\Mainboard\.PDF
+RelativeOutputPath2=C:\Users\Admin\GoogleDrive\MSE\PA-OST-2023\heron-hardware\Mainboard\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
