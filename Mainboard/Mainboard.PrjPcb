@@ -32,7 +32,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=
+OutputPath=Project Outputs for Mainboard
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -48,23 +48,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Mainboard.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BDOTSKAS
-
-[Document2]
 DocumentPath=Mainboard_V1.0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -81,7 +64,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CRPVWVNJ
 
-[Document3]
+[Document2]
 DocumentPath=Mainboard_V1.0_MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -98,7 +81,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LIPWPXWD
 
-[Document4]
+[Document3]
 DocumentPath=Mainboard_V1.0_Input.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -115,7 +98,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WIHMEYBJ
 
-[Document5]
+[Document4]
 DocumentPath=Mainboard_V1.0_Ethernet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -132,7 +115,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HSPJEJSX
 
-[Document6]
+[Document5]
 DocumentPath=Mainboard_V1.0_GPS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -149,7 +132,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WUGYNSES
 
-[Document7]
+[Document6]
 DocumentPath=Mainboard_V1.0_HMI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -166,7 +149,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PJACAVZR
 
-[Document8]
+[Document7]
 DocumentPath=Mainboard_V1.0_Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -183,7 +166,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUANUCFG
 
-[Document9]
+[Document8]
 DocumentPath=Mainboard_V1.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -200,7 +183,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UQKNQQGT
 
-[Document10]
+[Document9]
 DocumentPath=Mainboard_V1.0_MCU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -217,7 +200,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=Mainboard_V1.0_HMI.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -234,7 +217,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=Mainboard_V1.0_Input.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -251,7 +234,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=Mainboard_V1.0_GPS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -268,7 +251,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=Mainboard_V1.0_Sensors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -285,7 +268,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=Mainboard.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -302,7 +285,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=Mainboard.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -318,6 +301,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IILRGETA
+
+[Document16]
+DocumentPath=Mainboard.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BDOTSKAS
 
 [SearchPath1]
 Path=..\..\..\..\..\..\Program Files\Altium\Libraries\*.*
@@ -370,7 +370,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Mainboard
 
 [OutputGroup1]
 Name=Netlist Outputs
