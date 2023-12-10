@@ -132,6 +132,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Angle-Sensor\Design Rule Check - Angle-Sensor_V1.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\..\..\..\..\..\Program Files\Altium\Libraries\*.*
 IncludeSubFolders=1

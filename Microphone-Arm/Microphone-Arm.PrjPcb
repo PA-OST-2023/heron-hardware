@@ -115,6 +115,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Microphone-Arm\Design Rule Check - Microphone-Arm_V1.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\..\..\..\..\..\Program Files\Altium\Libraries\*.*
 IncludeSubFolders=1
