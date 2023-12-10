@@ -1,0 +1,51 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Admin\GoogleDrive\MSE\PA-OST-2023\heron-hardware\Angle-Sensor\Angle-Sensor_V1.0.PcbDoc
+Date     : 09.12.2023
+Time     : 23:06:06
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InPolygon),(Not InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=12mil) (InPolygon and InNet('GND')),(OnLayer('Bottom Layer'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=9.8mil) (isvia AND (AsMM(HoleDiameter) = 0.2)),(isvia AND (AsMM(HoleDiameter) = 0.2))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=33mil) (InPolygon and (InNet('GND') OR InNet('3V3') OR InNet('5V') OR InNet('1V8'))),(InAnyDifferentialPair)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=3.5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) (IsStitchingVia and InNet('GND')),((IsVia and (Not IsStitchingVia)) Or IsPad)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=12mil) (InPolygon and InNet('GND')),(OnLayer('Top Layer'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3.5mil) (Max=157.48mil) (Preferred=10mil) (Not InNet('No Net'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mil) (Max=10mil) (Preferred=0.1mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=3.5mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=800mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01
