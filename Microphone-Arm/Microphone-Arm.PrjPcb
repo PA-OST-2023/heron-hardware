@@ -32,7 +32,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=Project Outputs for Microphone-Arm
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -213,10 +213,6 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Microphone-Arm\Microphone-Arm_V1.0.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Microphone-Arm\Pick Place for Microphone-Arm_V1.0.csv
-DItemRevisionGUID=
-
 [SearchPath1]
 Path=..\..\..\..\..\..\Program Files\Altium\Libraries\*.*
 IncludeSubFolders=1
@@ -268,7 +264,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for Microphone-Arm
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

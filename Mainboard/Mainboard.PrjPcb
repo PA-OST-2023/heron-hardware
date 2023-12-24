@@ -32,7 +32,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=Project Outputs for Mainboard
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -429,10 +429,6 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Mainboard\Mainboard_V1.0.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Mainboard\Pick Place for Mainboard_V1.0.csv
-DItemRevisionGUID=
-
 [SearchPath1]
 Path=..\..\..\..\..\..\Program Files\Altium\Libraries\*.*
 IncludeSubFolders=1
@@ -484,7 +480,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for Mainboard
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
