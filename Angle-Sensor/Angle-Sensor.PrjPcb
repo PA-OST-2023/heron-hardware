@@ -32,7 +32,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=Project Outputs for Angle-Sensor
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -230,10 +230,6 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Angle-Sensor\Design Rule Check - Angle-Sensor_V1.html
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Angle-Sensor\Pick Place for Angle-Sensor_V1.0.csv
-DItemRevisionGUID=
-
 [SearchPath1]
 Path=..\..\..\..\..\..\Program Files\Altium\Libraries\*.*
 IncludeSubFolders=1
@@ -285,7 +281,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for Angle-Sensor
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
