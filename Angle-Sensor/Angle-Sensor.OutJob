@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=C:\Users\Admin\GoogleDrive\MSE\PA-OST-2023\heron-hardware\Angle-Sensor\.PDF
+OutputFilePath2=C:\Users\flori\GoogleDrive\MSE\PA-OST-2023\heron-hardware\Angle-Sensor\.PDF
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\Admin\GoogleDrive\MSE\PA-OST-2023\heron-hardware\Angle-Sensor\
+OutputBasePath2=C:\Users\flori\GoogleDrive\MSE\PA-OST-2023\heron-hardware\Angle-Sensor\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\Admin\GoogleDrive\MSE\PA-OST-2023\heron-hardware\Angle-Sensor\.PDF
+RelativeOutputPath2=C:\Users\flori\GoogleDrive\MSE\PA-OST-2023\heron-hardware\Angle-Sensor\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
